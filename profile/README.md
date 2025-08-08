@@ -99,7 +99,7 @@ Um site de divulgação com:
 ---
 ## 📬 Contato
 
-Para dúvidas ou sugestões, entre em contato com o responsável técnico do projeto:  
+Para dúvidas ou sugestões, entre em contato com os responsáveis pelo projeto:  
 **Pedro César Delgado Gomes** — [LinkedIn](https://www.linkedin.com/in/pedro-c%C3%A9sar-delgado-gomes-7255a7294/)
 
 ---
