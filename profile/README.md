@@ -88,9 +88,9 @@ Um site de divulgação com:
         </td>
              <td align="center">
             <a href="https://github.com/felipethecreator ">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473024?v=4" width="80px;" alt="Foto de Gabriel Lima"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95952269?v=4" width="80px;" alt="Foto de Gabriel Lima"/>
                 <br/>
-                <b>Felipe Rodrigues Queiroz </b>
+                <b>Felipe Queiroz </b>
             </a>
         </td>
     </tr>
