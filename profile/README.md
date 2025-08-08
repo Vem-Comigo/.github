@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner-vemcomigo.svg" alt="Banner Vem Comigo" width="100%">
+</p>
+
 # Vem Comigo
 
 **Organização dedicada ao desenvolvimento do site institucional do projeto "Vem Comigo".**  
