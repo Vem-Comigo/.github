@@ -17,8 +17,7 @@ Um site de divulgação com:
 
 - Página inicial institucional  
 - Seções informativas sobre o projeto  
-- Depoimentos e ações realizadas nas escolas  
-- Recursos e materiais educativos  
+- Depoimentos e ações realizadas nas escolas    
 - Layout responsivo e acessível  
 - Identidade visual consistente com a proposta social do projeto
 
@@ -38,7 +37,6 @@ Um site de divulgação com:
 - Estudantes, pais e educadores das escolas públicas do DF  
 - Coordenadores pedagógicos e gestores escolares  
 - Público em geral interessado em ações de impacto social  
-- Organizações parceiras e voluntários
 
 ---
 
@@ -55,17 +53,13 @@ Um site de divulgação com:
 | Repositório           | Descrição                                           |
 |-----------------------|-----------------------------------------------------|
 | `vemcomigo-frontend`  | Interface web com React e Tailwind CSS              |
-| `vemcomigo-assets`    | Logos, imagens e recursos visuais                   |
+| `vemcomigo-backend`   | Integração com banco de dados                       |
+| `vemcomigo-assets`    | Logos, imagens, protótipos e recursos visuais       |
 | `vemcomigo-docs`      | Documentação do projeto (escopo, planejamento, etc) |
-| `vemcomigo-design`    | Protótipos, identidade visual e elementos de UI/UX  |
 
 ---
 
 ## 📬 Contato
 
 Para dúvidas ou sugestões, entre em contato com o responsável técnico do projeto:  
-**Pedro César Delgado Gomes** — [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-
----
-
-> Projeto acadêmico desenvolvido para a disciplina de Projeto Integrador II – Ciência da Computação – CEUB (Centro Universitário de Brasília)
+**Pedro César Delgado Gomes** — [LinkedIn](https://www.linkedin.com/in/pedro-c%C3%A9sar-delgado-gomes-7255a7294/)
