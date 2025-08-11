@@ -101,5 +101,9 @@ Um site de divulgação com:
 
 Para dúvidas ou sugestões, entre em contato com os responsáveis pelo projeto:  
 **Pedro César Delgado Gomes** — [LinkedIn](https://www.linkedin.com/in/pedro-c%C3%A9sar-delgado-gomes-7255a7294/)
+**Lucas Andrade Fonseca** — [LinkedIn](https://www.linkedin.com/in/lucas-andrade-5511022b3/)
+**Gabriel de Medeiros Lima** — [LinkedIn](https://www.linkedin.com/in/gabriel-de-medeiros-lima/)
+**Felipe Rodriguez Queiroz** — [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-queiroz-564377171/)
+
 
 ---
