@@ -4,7 +4,7 @@
 
 # Vem Comigo
 
-**Organização dedicada ao desenvolvimento do site institucional do projeto "Vem Comigo".**  
+**Solução dedicada ao desenvolvimento do site institucional do projeto "Vem Comigo".**  
 Nosso objetivo é criar uma plataforma de divulgação que apoie ações contra o bullying e promova a saúde mental nas escolas públicas do Distrito Federal.
 
 ---
