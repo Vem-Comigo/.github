@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.svg" alt="Banner Vem Comigo" width="100%">
+  <img src="BannerVemcomigo.png" alt="Banner Vem Comigo" width="100%">
 </p>
 
 # Vem Comigo
