@@ -48,7 +48,7 @@ Um site de divulgação com:
 
 - Código-fonte e organização dos repositórios: [GitHub](https://github.com)  
 - Protótipos e identidade visual: Figma  
-- Documentação do projeto: [`vemcomigo-docs`](https://github.com/seu-usuario/vemcomigo-docs)
+- Documentação do projeto: [`vemcomigo-docs`](https://github.com/Vem-Comigo/vemcomigo-docs)
 
 ---
 
