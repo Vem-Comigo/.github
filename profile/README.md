@@ -46,7 +46,7 @@ Um site de divulgação com:
 
 ## 🌍 Onde está sendo desenvolvido? *(Where)*
 
-- Código-fonte e organização dos repositórios: [GitHub](https://github.com)  
+- Código-fonte e organização dos repositórios: GitHub 
 - Protótipos e identidade visual: Figma  
 - Documentação do projeto: [`vemcomigo-docs`](https://github.com/Vem-Comigo/vemcomigo-docs)
 
